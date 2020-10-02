@@ -5,7 +5,7 @@
       "setup": "javac Main.java",
       "run": "java Main",
       "input": "10",
-      "output": "Please enter a positive integer to see the FizzBuzz numbers\r\n1\r\n2\r\nFizz\r\n4\r\nBuzz\r\nFizz\r\n7\r\n8\r\n9\r\nBuzz\r\n",
+      "output": "Please enter a positive integer to see the FizzBuzz numbers\r\n1\r\n2\r\nFizz\r\n4\r\nBuzz\r\nFizz\r\n7\r\n8\r\nFizz\r\nBuzz\r\n",
       "comparison": "included",
       "timeout": 1,
       "points": 2
